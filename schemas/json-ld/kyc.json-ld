@@ -1,0 +1,25 @@
+{
+  "@context": [
+    {
+      "@version": 1.0,
+      "@protected": true,
+      "id": "@id",
+      "type": "@type",
+      "TokenBalance": {
+        "@id": "https://raw.githubusercontent.com/onchainlabs/claim-schema/main/schemas/json-ld/kyc.json-ld#TokenBalance",
+        "@context": {
+          "@version": 1.0,
+          "@protected": true,
+          "id": "@id",
+          "type": "@type",
+          "kyc": "https://raw.githubusercontent.com/onchainlabs/claim-schema/main/credentials/kyc.md#",
+          "serialization": "https://raw.githubusercontent.com/onchainlabs/claim-schema/main/credentials/serialization.md#",
+          "tokenBalance": {
+            "@id": "kyc:tokenBalance",
+            "@type": "serialization:Index"
+          }
+        }
+      }
+    }
+  ]
+}
