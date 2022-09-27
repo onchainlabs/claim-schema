@@ -4,5 +4,5 @@
 Token Balance
 
 ```
-  "age": 18
+  "tokenBalance": 18
 ```
