@@ -12,8 +12,8 @@
           "@protected": true,
           "id": "@id",
           "type": "@type",
-          "kyc": "https://raw.githubusercontent.com/onchainlabs/claim-schema/main/credentials/kyc.md#",
-          "serialization": "https://raw.githubusercontent.com/onchainlabs/claim-schema/main/credentials/serialization.md#",
+          "kyc": "https://github.com/onchainlabs/claim-schema/blob/main/credentials/kyc.md#",
+          "serialization": "https://github.com/onchainlabs/claim-schema/blob/main/credentials/serialization.md#",
           "tokenBalance": {
             "@id": "kyc:tokenBalance",
             "@type": "serialization:Index"
