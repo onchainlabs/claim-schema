@@ -6,7 +6,7 @@
       "id": "@id",
       "type": "@type",
       "TokenBalance": {
-        "@id": "https://raw.githubusercontent.com/onchainlabs/claim-schema/main/schemas/json-ld/kyc.json-ld#TokenBalance",
+        "@id": "https://raw.githubusercontent.com/onchainlabs/claim-schema/main/schemas/json-ld/TokenBalance.json-ld#TokenBalance",
         "@context": {
           "@version": 1.0,
           "@protected": true,
