@@ -16,7 +16,11 @@
           "serialization": "https://github.com/onchainlabs/claim-schema/blob/main/credentials/serialization.md#",
           "tokenBalance": {
             "@id": "kyc:tokenBalance",
-            "@type": "serialization:Index"
+            "@type": "serialization:IndexDataSlotA"
+          },
+          "documentType": {
+            "@id": "kyc:documentType",
+            "@type": "serialization:IndexDataSlotB"
           }
         }
       }
