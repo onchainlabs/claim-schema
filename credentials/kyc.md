@@ -4,5 +4,5 @@
 Token Balance
 
 ```
-  "tokenBalance": 1
+  "tokenBalance": 18
 ```
