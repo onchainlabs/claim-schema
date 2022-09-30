@@ -17,10 +17,6 @@
           "tokenBalance": {
             "@id": "kyc:tokenBalance",
             "@type": "serialization:IndexDataSlotA"
-          },
-          "version": {
-            "@id": "kyc:version",
-            "@type": "serialization:IndexDataSlotB"
           }
         }
       }
