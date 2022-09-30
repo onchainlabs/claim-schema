@@ -49,7 +49,7 @@ position for serialization
 ordered list of fields for serialization to index slots
 
 ```
-  "indexOrder":["tokenBalance"]
+  "indexOrder":["tokenBalance","version"]
  ```
 
 # valueOrder
@@ -57,5 +57,5 @@ ordered list of fields for serialization to index slots
 ordered list of fields for serialization to value slots
 
 ```
-  "valueOrder": ["tokenBalance"]
+  "valueOrder": ["tokenBalance","version"]
  ```
