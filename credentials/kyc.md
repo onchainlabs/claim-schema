@@ -70,7 +70,3 @@ documentType identifies the document type which belongs to the claim data
 ```
   "verified": true 
  ```
- 
-# version
-
-version is an integer value that represents the current version of the DAO.
