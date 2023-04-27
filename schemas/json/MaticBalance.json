@@ -89,7 +89,7 @@
           "format": "uri"
         },
         "tokenBalance": {
-          "type": "integer"
+          "type": "string"
         }
       }
     }
