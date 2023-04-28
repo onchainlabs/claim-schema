@@ -70,3 +70,11 @@ documentType identifies the document type which belongs to the claim data
 ```
   "verified": true 
  ```
+
+# isHolding
+
+isHolding is either 0 or 1, mean false or true if you hold something or not
+
+```
+  "isHolding": 1 
+ ```
