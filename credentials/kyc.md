@@ -1,4 +1,12 @@
 
+# kycId
+
+KYC ID assigned to users after finishing the KYC flow.
+
+```
+  "kycId": "bcdeb7c8-f554-11ed-a05b-0242ac120003"
+```
+
 # tokenBalance
 
 Token Balance
