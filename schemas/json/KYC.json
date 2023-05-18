@@ -4,7 +4,7 @@
   "$metadata": {
     "uris": {
       "jsonLdContext": "https://raw.githubusercontent.com/onchainlabs/claim-schema/main/schemas/json-ld/kyc.jsonld",
-      "jsonSchema": "https://raw.githubusercontent.com/onchainlabs/claim-schema/main/schemas/json/KYCCredential.json"
+      "jsonSchema": "https://raw.githubusercontent.com/onchainlabs/claim-schema/main/schemas/json/KYC.json"
     }
   },
   "required": [
