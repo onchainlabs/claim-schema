@@ -1,10 +1,10 @@
 
-# kycId
+# kycID
 
 KYC ID assigned to users after finishing the KYC flow.
 
 ```
-  "kycId": 100234112455
+  "kycID": 100234112455
 ```
 
 # tokenBalance
