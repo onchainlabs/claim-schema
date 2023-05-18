@@ -5,6 +5,21 @@
       "@protected": true,
       "id": "@id",
       "type": "@type",
+      "KYCCredential": {
+        "@id": "https://raw.githubusercontent.com/onchainlabs/claim-schema/main/schemas/json-ld/kyc.jsonld#KYCCredential",
+        "@context": {
+          "@version": 1.1,
+          "@protected": true,
+          "id": "@id",
+          "type": "@type",
+          "kyc-vocab": "https://github.com/onchainlabs/claim-schema/blob/main/credentials/kyc.md#",
+          "xsd": "http://www.w3.org/2001/XMLSchema#",
+          "kycId": {
+            "@id": "kyc-vocab:kycId",
+            "@type": "xsd:string"
+          }
+        }
+      },
       "KYCAgeCredential": {
         "@id": "https://raw.githubusercontent.com/onchainlabs/claim-schema/main/schemas/json-ld/kyc.jsonld#KYCAgeCredential",
         "@context": {
