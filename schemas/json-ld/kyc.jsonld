@@ -32,10 +32,6 @@
           "birthday": {
             "@id": "kyc-vocab:birthday",
             "@type": "xsd:integer"
-          },
-          "documentType": {
-            "@id": "kyc-vocab:documentType",
-            "@type": "xsd:integer"
           }
         }
       },
@@ -50,10 +46,6 @@
           "xsd": "http://www.w3.org/2001/XMLSchema#",
           "countryCode": {
             "@id": "kyc-vocab:countryCode",
-            "@type": "xsd:integer"
-          },
-          "documentType": {
-            "@id": "kyc-vocab:documentType",
             "@type": "xsd:integer"
           }
         }
