@@ -81,15 +81,12 @@
     },
     "credentialSubject": {
       "type": "object",
-      "required": ["id", "documentType"],
+      "required": ["id"],
       "properties": {
         "id": {
           "title": "Credential Subject ID",
           "type": "string",
           "format": "uri"
-        },
-        "documentType": {
-          "type": "integer"
         }
       }
     }

@@ -66,11 +66,7 @@
           "id": "@id",
           "type": "@type",
           "kyc-vocab": "https://github.com/onchainlabs/claim-schema/blob/main/credentials/kyc.md#",
-          "xsd": "http://www.w3.org/2001/XMLSchema#",
-          "documentType": {
-            "@id": "kyc-vocab:documentType",
-            "@type": "xsd:integer"
-          }
+          "xsd": "http://www.w3.org/2001/XMLSchema#"
         }
       }
     }
