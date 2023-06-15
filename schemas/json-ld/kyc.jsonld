@@ -17,10 +17,6 @@
           "kycID": {
             "@id": "kyc-vocab:kycID",
             "@type": "xsd:integer"
-          },
-          "documentType": {
-            "@id": "kyc-vocab:documentType",
-            "@type": "xsd:integer"
           }
         }
       },

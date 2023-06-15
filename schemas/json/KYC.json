@@ -81,7 +81,7 @@
     },
     "credentialSubject": {
       "type": "object",
-      "required": ["id", "kycID", "documentType"],
+      "required": ["id", "kycID"],
       "properties": {
         "id": {
           "title": "Credential Subject ID",
@@ -89,9 +89,6 @@
           "format": "uri"
         },
         "kycID": {
-          "type": "integer"
-        },
-        "documentType": {
           "type": "integer"
         }
       }
