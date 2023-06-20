@@ -1,0 +1,25 @@
+{
+  "@context": [
+    {
+      "@version": 1.1,
+      "@protected": true,
+      "id": "@id",
+      "type": "@type",
+      "BrightIdProofOfPersonhood": {
+        "@id": "https://raw.githubusercontent.com/onchainlabs/claim-schema/main/schemas/json-ld/brightId.jsonld#BrightIdProofOfPersonhood",
+        "@context": {
+          "@version": 1.1,
+          "@protected": true,
+          "id": "@id",
+          "type": "@type",
+          "kyc-vocab": "https://github.com/onchainlabs/claim-schema/blob/main/credentials/brightId.md#",
+          "xsd": "http://www.w3.org/2001/XMLSchema#",
+          "verificationLevel": {
+            "@id": "kyc-vocab:verificationLevel",
+            "@type": "xsd:integer"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "@context": [
+    {
+      "@version": 1.1,
+      "@protected": true,
+      "id": "@id",
+      "type": "@type",
+      "FacetecProofOfPersonhood": {
+        "@id": "https://raw.githubusercontent.com/onchainlabs/claim-schema/main/schemas/json-ld/facetec.jsonld#FacetecProofOfPersonhood",
+        "@context": {
+          "@version": 1.1,
+          "@protected": true,
+          "id": "@id",
+          "type": "@type",
+          "kyc-vocab": "https://github.com/onchainlabs/claim-schema/blob/main/credentials/facetec.md#",
+          "xsd": "http://www.w3.org/2001/XMLSchema#"
+        }
+      }
+    }
+  ]
+}
